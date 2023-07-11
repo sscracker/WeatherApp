@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="the_day_after_the_day_after_tomorrow">the day after the day after tomorrow</string>
+</resources>
